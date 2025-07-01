@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+
+# Model files
+*.keras
+# *.h5
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+Thumbs.db
